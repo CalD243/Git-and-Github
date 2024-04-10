@@ -7,3 +7,6 @@ my read me file
 some other text
 
 i made some changes
+
+math:
+1+2=
